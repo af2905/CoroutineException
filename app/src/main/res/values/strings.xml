@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutineException</string>
+    <string name="run">Run</string>
+    <string name="run2">Run2</string>
+</resources>
